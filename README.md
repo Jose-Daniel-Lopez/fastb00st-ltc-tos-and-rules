@@ -1,6 +1,3 @@
-# fastb00st-ltc-tos-and-rules
-List of Rules and Terms of Service related to automated ltc transactions managed by the bot.
-
 # 📜 Terms of Service & Transaction Rules  
 *Effective Date: April 5, 2025*  
 *Last Updated: April 5, 2025*
